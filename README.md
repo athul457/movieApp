@@ -1,1 +1,1 @@
-click to view
+#click to view
