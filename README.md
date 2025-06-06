@@ -23,28 +23,6 @@ A responsive movie ratings website built with HTML and Tailwind CSS that showcas
 
 No installation required - this is a static website. Simply open the `index.html` file in any modern web browser.
 
-## Project Structure
-
-
-movie-ratings/
-├── index.html
-├── assets/
-│ ├── civil_war.jpg
-│ ├── cityOfGod.jpeg
-│ ├── darkKnight.jpeg
-│ ├── farFromMan.jpg
-│ ├── fightclub.jpg
-│ ├── flynn.jpg
-│ ├── godfather.jpg
-│ ├── GoodFellas.jpeg
-│ ├── jules_verne.jpg
-│ ├── LifeIsBeautiful.jpeg
-│ ├── ringOfPower.jpg
-│ └── star.png
-└── style/
-└── style.css
-
-
 ## Customization
 
 To customize the website:
